@@ -1,0 +1,19 @@
+If kecil && kecil => tidak
+If kecil && sedang => tidak
+If kecil && besar => ya
+If sedang && kecil => tidak
+If sedang && sedang => ya
+If sedang && besar => ya
+If besar && kecil => tidak
+If besar && sedang => ya
+If besar && besar => ya
+
+
+
+
+0 <= Kecil <= 50 
+50 < Kecil, Sedang < 70
+70 <= Sedang <= 70
+70 < Sedang, Besar < 90
+90 < Besar <= 100
+ 
